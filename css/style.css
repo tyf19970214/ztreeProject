@@ -1,0 +1,34 @@
+.spName{
+    background-color: #FF9;
+    text-align: left;
+}
+ul li{
+    list-style: none;
+}
+
+.supplierBack{
+    background-color: #FF9;
+    width: 320px;
+    height: 450px;
+    overflow:auto;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #333333;
+}
+
+.ztree{
+    overflow:auto;
+}
+
+.supplier{
+    width: 320px;height: 480px;
+}
+
+.series{
+    width: 320px;height: 480px;
+    position: absolute;
+    left: 25%;
+    bottom: 11%;
+}
